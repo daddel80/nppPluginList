@@ -1,6 +1,6 @@
 {
 	"name": "npp-pluginList",
-	"version": "1.8.3",
+	"version": "1.8.4",
 	"arch": "32",
 	"npp-plugins": [
 		{
@@ -160,13 +160,13 @@
 		{
 			"folder-name": "CollectionInterface",
 			"display-name": "CollectionInterface",
-			"version": "1.0.0",
-			"id": "daa6fbfa777be0bf8ac765e8a768b6598890ca3c4bc170fbb6b14b407d452d71",
-			"repository": "https://github.com/pryrt/NppPlugin-CollectionInterface/releases/download/v1.0.0/CollectionInterface_Win32.zip",
+			"version": "1.1.0",
+			"id": "04ec583dd33cb54cdce6e208e7be1671ebe377d99e0017366278150a1bcab70b",
+			"repository": "https://github.com/pryrt/NppPlugin-CollectionInterface/releases/download/v1.1.0/CollectionInterface_v1.1.0_Win32.zip",
 			"description": "Interface to the official UserDefinedLanguage Collection and nppThemes Collection.\r\n\r\nAllows easy download and installation of a UDL (with FunctionList and AutoCompletion definitions, when available) or a Theme",
 			"author": "pryrt",
 			"homepage": "https://github.com/pryrt/NppPlugin-CollectionInterface",
-			"npp-compatible-versions": "[8.7.5,]"
+			"npp-compatible-versions": "[8.5,]"
 		},
 		{
 			"folder-name": "ColumnsPlusPlus",
@@ -467,9 +467,9 @@
 		{
 			"folder-name": "FWDataViz",
 			"display-name": "Fixed-width Data Visualizer",
-			"version": "2.6.4.0",
-			"id": "68181aab66df4466616d3c02ecc9d632415e8ed3af954ec0e641a040d7c041a0",
-			"repository": "https://github.com/shriprem/FWDataViz/releases/download/v2.6.4.0/FWDataViz_x86.zip",
+			"version": "2.6.5.0",
+			"id": "4cb394fcaf32fbbb8136688dc1a9f297c7fe4cf3afe5fd01adfdc37a55766878",
+			"repository": "https://github.com/shriprem/FWDataViz/releases/download/v2.6.5.0/FWDataViz_x86.zip",
 			"description": "Fixed Width Data Visualizer adds Excel-like features for fixed-width data files in Notepad++. Displays cursor position data. Foldable Record Blocks; Hop & Jump to specific fields. Field Copy & Field Paste. Data Extraction. Builtin dialogs to configure file-type, record-type & fields; and themes & colors. Automatic File Type Detection. Handles homogenous, mixed & multi-line records. Full Multi-byte character support. Darkmode enabled.",
 			"author": "Shridhar Kumar",
 			"homepage": "https://github.com/shriprem/FWDataViz"
@@ -530,9 +530,9 @@
 		{
 			"folder-name": "GotoLineCol",
 			"display-name": "GotoLineCol",
-			"version": "2.4.4.0",
-			"id": "7913f3ed7840d91f9bce9d791629ff816992a271fe438073288e9766d02e7fad",
-			"repository": "https://github.com/shriprem/Goto-Line-Col-NPP-Plugin/releases/download/v2.4.4.0/GotoLineCol_x86.zip",
+			"version": "2.4.5.0",
+			"id": "f9fbe42d4a096d93692fb1ac701ade4d841e1bbf08f191b0df46a46c4049b4ec",
+			"repository": "https://github.com/shriprem/Goto-Line-Col-NPP-Plugin/releases/download/v2.4.5.0/GotoLineCol_x86.zip",
 			"description": "A plugin to navigate to a specified line and (byte-based or character-based) column position. Will also display character byte code, UTF-8 byte sequence & Unicode code point, name & block at cursor position. Darkmode enabled. Command line options.",
 			"author": "Shridhar Kumar",
 			"homepage": "https://github.com/shriprem/Goto-Line-Col-NPP-Plugin"
@@ -560,11 +560,11 @@
 		{
 			"folder-name": "HTMLTag_unicode",
 			"display-name": "HTML Tag",
-			"version": "1.5.2.0",
+			"version": "1.5.4.0",
 			"npp-compatible-versions": "[7.7,]",
 			"old-versions-compatibility": "[,1.1][,7.6.6]",
-			"id": "be5497de5c1a9eaf2b4e363c316b3701819c1b61cdf4f0dbc48d7071ab7161ea",
-			"repository": "https://bitbucket.org/rdipardo/htmltag/downloads/HTMLTag_v1.5.2.zip",
+			"id": "ae3945abdf64c5a0cb1f32be5b2de53806bcb20e2e3dfd6bf771989b2eba03a6",
+			"repository": "https://bitbucket.org/rdipardo/htmltag/downloads/HTMLTag_v1.5.4.zip",
 			"description": "Provides three core functions:\r\n- HTML and XML tag jumping, like the built-in brace matching and selection\r\n of tags and/or contents.\r\n- HTML entity encoding/decoding (example: é to &eacute;)\r\n- JS character encoding/decoding (example: é to \\u00E9)",
 			"author": "Martijn Coppoolse",
 			"homepage": "https://bitbucket.org/rdipardo/htmltag/"
@@ -767,9 +767,9 @@
 		{
 			"folder-name": "NppMarkdownPanel",
 			"display-name": "Markdown Panel",
-			"version": "0.7.3",
-			"id": "477c3056692fb29b588b07aaa6d18a4079a5f2ff781de63c8d23a5f37830f3d5",
-			"repository": "https://github.com/mohzy83/NppMarkdownPanel/releases/download/0.7.3.1/NppMarkdownPanel-0.7.3.0-x86.zip",
+			"version": "0.9.0",
+			"id": "45004f2b0285365de03c246ead6295462b0898004461c313be14be519c522c34",
+			"repository": "https://github.com/mohzy83/NppMarkdownPanel/releases/download/0.9.0/NppMarkdownPanel-0.9.0.0-x86.zip",
 			"description": "Lightweight plugin to display rendered Markdown files.",
 			"author": "Mohzy83",
 			"homepage": "https://github.com/mohzy83/NppMarkdownPanel"
@@ -1164,6 +1164,7 @@
 			"folder-name": "NppQrCode32",
 			"display-name": "NppQrCode",
 			"version": "0.0.0.2",
+			"old-versions-compatibility": "[,0.0.0.1][,8.3.3]",
 			"id": "0a5fd708e4e331ddc086962990284d0241046dc1acffb2fde9870a0e048ab8db",
 			"repository": "https://github.com/rdipardo/nppQrCode/releases/download/v0.0.0.2/NppQrCode-0.0.0.2-win32.zip",
 			"description": "Creates a QR code from selected text. Just select some text and click the toolbar button.",
@@ -1310,6 +1311,7 @@
 			"folder-name": "PreviewHTML",
 			"display-name": "Preview HTML",
 			"version": "1.3.3.2",
+			"old-versions-compatibility": "[,1.3.3.1][,8.3.3]",
 			"id": "92fa7faa01b9953c5b759bfe5637c948f5a742623ec1b9a99565d623979dc3c3",
 			"repository": "https://github.com/rdipardo/npp_preview/releases/download/v1.3.3.2/PreviewHTML_v1.3.3.2_win32.zip",
 			"description": "Preview HTML files inside Notepad++ (or in a floating window) without having to save them first.",
@@ -1641,9 +1643,9 @@
 		{
 			"folder-name": "StayAwake_NPP",
 			"display-name": "StayAwake",
-			"version": "1.0.0.2",
-			"id": "767a200b12e00e810f90c351ec72bf48571a84ed7c16a5a84684a3592d141b3c",
-			"repository": "https://github.com/shriprem/StayAwake_NPP_Plugin/releases/download/v1.0.0.2/StayAwake_NPP_x86.zip",
+			"version": "1.0.1.0",
+			"id": "cbe7e3dca3f94dd61305485f6a123581e737a489d9f38a45d2c5d26cff66bb48",
+			"repository": "https://github.com/shriprem/StayAwake_NPP_Plugin/releases/download/v1.0.1.0/StayAwake_NPP_x86.zip",
 			"description": "StayAwake is a simple utility that enables you to maintain an Active status on Microsoft Teams by periodically cycling (double-toggling) the Scroll Lock button. StayAwake also prevents screen saver activation, screen blanking, and Windows session lockouts.",
 			"author": "Shridhar Kumar",
 			"homepage": "https://github.com/shriprem/StayAwake_NPP_Plugin"
