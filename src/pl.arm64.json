@@ -58,6 +58,17 @@
 			"homepage": "https://github.com/pnedev/comparePlus"
 		},
 		{
+			"folder-name": "dark_mode_C",
+			"display-name": "Dark Mode C",
+			"version": "1.0.3",
+			"npp-compatible-versions": "[8.0,]",
+			"id": "0b90c891b9b7a39197f534ebc1197425b41e0caf6525261c85a27ffa7bf62843",
+			"repository": "https://github.com/pullitall/Notepadpp-light-dark-switch-and-automatic-switch-based-on-location/releases/download/v1.0.3/DARK_MODE_NPP_v1.0.3_ARM64.zip",
+			"description": "Adds toolbar icons to instantly switch between light and dark mode with no restart required. Features an automatic mode that dynamically toggles your theme based on local sunrise and sunset times.",
+			"author": "pullitall",
+			"homepage": "https://github.com/pullitall/Notepadpp-light-dark-switch-and-automatic-switch-based-on-location"
+		},
+		{
 			"folder-name": "DiscordRPC",
 			"display-name": "Discord Rich Presence",
 			"version": "2.1.711.1",
@@ -70,9 +81,9 @@
 		{
 			"folder-name": "EmojiDescription",
 			"display-name": "Emoji Description",
-			"version": "0.1.0",
-			"id": "581fe7911d8f76edde26009fdc4cf5860cc34cd67fa996381f883eda936fcf10",
-			"repository": "https://github.com/Ruberoid/npp_emoji_description/releases/download/v0.1.0/EmojiDescription_arm64_v0.1.0.zip",
+			"version": "0.2.14",
+			"id": "f9b83fdae23278dda0166590576d4dea1c1d25e6c641612b5841203997a2b939",
+			"repository": "https://github.com/Ruberoid/npp_emoji_description/releases/download/v0.2.14/EmojiDescription_arm64_v0.2.14.zip",
 			"description": "Displays detailed character encoding information in the status bar. Shows Unicode code point, decimal/hexadecimal values, HTML entity, and UTF-8 byte sequence for any character including emoji.",
 			"author": "Ruberoid",
 			"homepage": "https://github.com/Ruberoid/npp_emoji_description"
@@ -169,6 +180,17 @@
 			"description": "Allows realtime code check against any checkstyle-compatible linter: jshint, eslint, jscs, phpcs, csslint, and many others.",
 			"author": "Tom Tanner",
 			"homepage": "https://github.com/thosrtanner/notepad-pp-linter"
+		},
+		{
+			"folder-name": "MarkdownTableEditor",
+			"display-name": "Markdown Table Editor",
+			"version": "11.0.0",
+			"npp-compatible-versions": "[8.3.1,]",
+			"id": "59557810d2dd5bea53e331d872fecd9e21825e2150f8a77af1814022a30c13a1",
+			"repository": "https://github.com/krotname/NppMarkdownTableEditor/releases/download/v11.0.0/MarkdownTableEditor-11.0.0-arm64-pluginadmin.zip",
+			"description": "Edits Markdown pipe tables as aligned text. Align, fit width, narrow or widen columns, navigate, insert, delete, move and sort rows or columns, convert CSV/TSV blocks, and insert new tables from Notepad++.",
+			"author": "Kreout",
+			"homepage": "https://github.com/krotname/NppMarkdownTableEditor"
 		},
 		{
 			"folder-name": "MenuIcons",
@@ -497,9 +519,9 @@
 		{
 			"folder-name": "TreeSitterLexer",
 			"display-name": "TreeSitter",
-			"version": "1.1.0",
-			"id": "49A37ED0D3C4A9CEAD489D06EDB4B86F5C87BDA4AFD53A5D935240CC50B7F7B0",
-			"repository": "https://github.com/Thorium/NppTreeSitter/releases/download/1.1.0/NppTreeSitter-arm64.zip",
+			"version": "1.3.0",
+			"id": "1a080097419bf8c419ab68e999a7b298892b2303040687e5686d6d223834d8e6",
+			"repository": "https://github.com/Thorium/NppTreeSitter/releases/download/1.3.0/NppTreeSitter_1.3.0_ARM64.zip",
 			"description": "Integrate Tree-sitter to Notepad++. AST-based syntax highlighting and code folding for many languages.",
 			"author": "Tuomas Hietanen",
 			"homepage": "https://github.com/Thorium/NppTreeSitter/"

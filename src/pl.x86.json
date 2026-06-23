@@ -288,11 +288,11 @@
 		{
 			"folder-name": "CSVLint",
 			"display-name": "CSV Lint",
-			"version": "0.4.7",
+			"version": "0.4.8",
 			"npp-compatible-versions": "[8.4,]",
 			"old-versions-compatibility": "[,0.4.5.1][,8.3.3]",
-			"id": "1c37a686a9708c92ce0602b73564290854b5320cd428311e4c346082f53623af",
-			"repository": "https://github.com/BdR76/CSVLint/releases/download/0.4.7/CSVLint_x86.zip",
+			"id": "b480cdad3de6b0343c5f59f07c106b03c4f5c0d82c56385bbdbcd5d8d034fb83",
+			"repository": "https://github.com/BdR76/CSVLint/releases/download/0.4.8/CSVLint_x86.zip",
 			"description": "Syntax highlighting and quality control for csv and fixed width data, detect column and datatypes, convert datetime/decimal format, sql, xml",
 			"author": "Bas de Reuver",
 			"homepage": "https://github.com/BdR76/CSVLint/"
@@ -328,6 +328,17 @@
 			"description": "Displays line numbers as hex numbers or as relative numbers. You can also configure the starting line number.",
 			"author": "Andreas Heim",
 			"homepage": "https://sourceforge.net/projects/customlinenumbers"
+		},
+		{
+			"folder-name": "dark_mode_C",
+			"display-name": "Dark Mode C",
+			"version": "1.0.3",
+			"npp-compatible-versions": "[8.0,]",
+			"id": "7be4d602ec6fa366b0b5fdcd93146c41baf67c0af50cd752ce8e47aee9dadcb8",
+			"repository": "https://github.com/pullitall/Notepadpp-light-dark-switch-and-automatic-switch-based-on-location/releases/download/v1.0.3/DARK_MODE_NPP_v1.0.3_x86.zip",
+			"description": "Adds toolbar icons to instantly switch between light and dark mode with no restart required. Features an automatic mode that dynamically toggles your theme based on local sunrise and sunset times.",
+			"author": "pullitall",
+			"homepage": "https://github.com/pullitall/Notepadpp-light-dark-switch-and-automatic-switch-based-on-location"
 		},
 		{
 			"folder-name": "DarkTheme",
@@ -426,9 +437,9 @@
 		{
 			"folder-name": "EmojiDescription",
 			"display-name": "Emoji Description",
-			"version": "0.1.0",
-			"id": "4d4fa84a1ace691970cf2502995bd955ccc75ddba01a64354835c17e59c61d22",
-			"repository": "https://github.com/Ruberoid/npp_emoji_description/releases/download/v0.1.0/EmojiDescription_x86_v0.1.0.zip",
+			"version": "0.2.14",
+			"id": "105a85da9f1ee548066b85f06c3ddb900e959ace4005546f7b448c5017f8487b",
+			"repository": "https://github.com/Ruberoid/npp_emoji_description/releases/download/v0.2.14/EmojiDescription_x86_v0.2.14.zip",
 			"description": "Displays detailed character encoding information in the status bar. Shows Unicode code point, decimal/hexadecimal values, HTML entity, and UTF-8 byte sequence for any character including emoji.",
 			"author": "Ruberoid",
 			"homepage": "https://github.com/Ruberoid/npp_emoji_description"
@@ -530,9 +541,9 @@
 		{
 			"folder-name": "FingerText2",
 			"display-name": "FingerText2",
-			"version": "26.5.26.1",
-			"id": "f3b43cd748ad880618f3e016d8f225bcf964b66cf9884ebef266a159d12d030e",
-			"repository": "https://github.com/ultimatejimmy/FingerText2/releases/download/26.5.26.1/FingerText2_26.5.26.1_32bit.zip",
+			"version": "26.6.15",
+			"id": "728d43cea69f1c93a77499f6b8881437b0394ade510563d25357820a23aad938",
+			"repository": "https://github.com/ultimatejimmy/FingerText2/releases/download/26.6.15/FingerText2_26.6.15_32bit.zip",
 			"description": "Tab-triggered snippet plugin with hotspot navigation, dynamic hotspots, and a snippet dock.",
 			"author": "Jimmy Pautz",
 			"homepage": "https://github.com/ultimatejimmy/FingerText2"
@@ -546,6 +557,17 @@
 			"description": "Fixed Width Data Visualizer adds Excel-like features for fixed-width data files in Notepad++. Displays cursor position data. Foldable Record Blocks; Hop & Jump to specific fields. Field Copy & Field Paste. Data Extraction. Builtin dialogs to configure file-type, record-type & fields; and themes & colors. Automatic File Type Detection. Handles homogenous, mixed & multi-line records. Full Multi-byte character support. Darkmode enabled.",
 			"author": "Shridhar Kumar",
 			"homepage": "https://github.com/shriprem/FWDataViz"
+		},
+		{
+			"folder-name": "FixParser",
+			"display-name": "FixParser",
+			"version": "0.1.3",
+			"npp-compatible-versions": "[8.9.0,]",
+			"id": "a63d531ea0cb83d5303f75e1587ffcb65c3fe9628d14cd4f3286834705c85ed0",
+			"repository": "https://github.com/chtaylo3/fix-parser/releases/download/v0.1.3/FixParser_0.1.3_Win32.zip",
+			"description": "Pretty-print and inspect FIX protocol logs: field/value decoding, hover quickview, and a dockable message inspector.",
+			"author": "Chris Taylor",
+			"homepage": "https://github.com/chtaylo3/fix-parser"
 		},
 		{
 			"folder-name": "FoldingLineHider",
@@ -856,6 +878,17 @@
 			"description": "Lightweight plugin to display rendered Markdown files.",
 			"author": "Mohzy83",
 			"homepage": "https://github.com/mohzy83/NppMarkdownPanel"
+		},
+		{
+			"folder-name": "MarkdownTableEditor",
+			"display-name": "Markdown Table Editor",
+			"version": "11.0.0",
+			"npp-compatible-versions": "[7.5.9,]",
+			"id": "ec9326c72d866a9f0aca3b6ceebcf40343c9b9852a42407f53cf27b80fea3992",
+			"repository": "https://github.com/krotname/NppMarkdownTableEditor/releases/download/v11.0.0/MarkdownTableEditor-11.0.0-x86-pluginadmin.zip",
+			"description": "Edits Markdown pipe tables as aligned text. Align, fit width, narrow or widen columns, navigate, insert, delete, move and sort rows or columns, convert CSV/TSV blocks, and insert new tables from Notepad++.",
+			"author": "Kreout",
+			"homepage": "https://github.com/krotname/NppMarkdownTableEditor"
 		},
 		{
 			"folder-name": "MarkdownViewerPlusPlus",
@@ -1342,9 +1375,9 @@
 		{
 			"folder-name": "NppVim",
 			"display-name": "NppVim",
-			"version": "1.12.0.0",
-			"id": "40d65ace274d1b306ab5b6f70cc6b891c9ffadaa37c2aa9e5978a7ce62687a5f",
-			"repository": "https://github.com/h-jangra/NppVim/releases/download/1.12.0.0/NppVim-1.12.0.0-x86.zip",
+			"version": "1.14.0.0",
+			"id": "e885f91575655ef77a811cc204c75f631e9d611dabb89903228f87714d944d06",
+			"repository": "https://github.com/h-jangra/NppVim/releases/download/1.14.0.0/NppVim-1.14.0.0-x86.zip",
 			"description": "A Notepad++ plugin that adds Vim-style editing and key bindings.",
 			"author": "h-jangra",
 			"homepage": "https://github.com/h-jangra/NppVim"
@@ -1389,16 +1422,6 @@
 			"description": "View and edit Papyrus Script files used by Bethesda games with syntax highlighting, function and block folding, hyperlinks to referenced scripts, keywords matching, plus compilation support with anonymized output and error list view.",
 			"author": "blu3mania",
 			"homepage": "https://github.com/blu3mania/npp-papyrus"
-		},
-		{
-			"folder-name": "ccc",
-			"display-name": "PHP Autocompletion",
-			"version": "1.4.1",
-			"id": "86d29d7a7998eec33cff35af54071ecf767c014048755cfbc0e54c1fda9d73d8",
-			"repository": "https://github.com/StanDog/npp-phpautocompletion/raw/master/RELEASES/ccc_1.4.1.zip",
-			"description": "Implements code completion for custom PHP classes. Keeps an overview over your classes' attributes &amp; methods in a nice popup!\r\nA popup window appears after typing the \"-&gt;\" or \"::\" behind a class or an instantiated object variable which displays all attributes and methods of it's class. As soon as the popup appears you can type in the name of the method or attribute you are looking for and the plugin will select it in the list automatically. Hitting [return] or double clicking the entry will insert the name of the property to your script. Additionally, there is a list with all classes and their properties in a dockable window. Double-clicking this entry opens their file &amp; jumps right to the declaration. The list also offers a quick search function.",
-			"author": "Stanislav Eckert",
-			"homepage": "https://github.com/StanDog/npp-phpautocompletion"
 		},
 		{
 			"folder-name": "PlantUmlViewer",
@@ -1911,9 +1934,9 @@
 		{
 			"folder-name": "TreeSitterLexer",
 			"display-name": "TreeSitter",
-			"version": "1.1.0",
-			"id": "C8E3B4613799819C1FFE23942BD607E26788EE60AFF9A58C77778DA8EE8A087E",
-			"repository": "https://github.com/Thorium/NppTreeSitter/releases/download/1.1.0/NppTreeSitter-x86.zip",
+			"version": "1.3.0",
+			"id": "ff4a45a3fe226c979cb812fcd38a880e51b6e0f48f324a57c3acdf0261953af9",
+			"repository": "https://github.com/Thorium/NppTreeSitter/releases/download/1.3.0/NppTreeSitter_1.3.0_Win32.zip",
 			"description": "Integrate Tree-sitter to Notepad++. AST-based syntax highlighting and code folding for many languages.",
 			"author": "Tuomas Hietanen",
 			"homepage": "https://github.com/Thorium/NppTreeSitter/"
@@ -2059,16 +2082,6 @@
 			"description": "Implementation of the Zen Coding method by Sergey Chikuyonok. Expand HTML, CSS, XML, XSLT and XSD from abbreviations\ntr#head1.header&gt;td*2 becomes &lt;tr id=\"head1\" class=\"header\"&gt;\n &lt;td&gt;&lt;/td&gt;\n &lt;td&gt;&lt;/td&gt;\n&lt;/tr&gt;\nUses the Python Script plugin.",
 			"author": "Dave Brotherstone",
 			"homepage": "https://github.com/bruderstein/ZenCoding-Python"
-		},
-		{
-			"folder-name": "zoomdisabler",
-			"display-name": "Zoom Disabler",
-			"version": "1.2.0",
-			"id": "eb49c4fce581fa63b024a3a0454ccc49d082b9524c0cc9a0d5c25544e264da55",
-			"repository": "https://github.com/StanDog/npp-zoomdisabler/raw/master/RELEASES/zoomdisabler_1.2.0.zip",
-			"description": "Tired of zooming your document everytime you just want to scroll but accidentally still holding the [Ctrl] key? Then this is what you want! It disables mouse zoom, keyboard zoom, or both.",
-			"author": "Stanislav Eckert",
-			"homepage": "https://github.com/StanDog/npp-zoomdisabler"
 		}
 	]
 }
